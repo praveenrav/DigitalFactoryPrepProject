@@ -1,4 +1,4 @@
-### **Digital Factory Preparation Project**
+#### Digital Factory Preparation Project
 
 This project serves as a method to become introduced, familiarized, or more skilled in the various concepts relevant to the development of an IoT-based Digital Factory.
 
